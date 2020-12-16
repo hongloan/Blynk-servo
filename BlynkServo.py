@@ -2,7 +2,6 @@ import blynklib
 import RPi.GPIO as GPIO
 import time
 import signal
-import signal
 import atexit
 
 BLYNK_AUTH = 'Your Blynk Auth Token Here'
